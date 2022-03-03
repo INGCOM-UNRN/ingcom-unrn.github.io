@@ -1,37 +1,37 @@
-## Welcome to GitHub Pages
+## Ingeniería en Computación - UNRN
 
-You can use the [editor on GitHub](https://github.com/INGCOM-UNRN/ingcom-unrn.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Acá estará toda la información referida a la Cátedra.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+¡Se aceptan Pull Requests para completar y agregar toda la información que quieran compartir!
+
+El sitio usa la configuración base de de GitHub Pages con [Jekyll](https://jekyllrb.com/) por lo que las páginas son bloques de texto Markdown.
 
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown es una forma simple y facil de aprender para la creación de documentos y por medio de una convención, es posible:
 
 ```markdown
-Syntax highlighted code block
+Agregar bloques de código con formato:
 
-# Header 1
-## Header 2
-### Header 3
+# Encabezado 1
+## Encabezado 2
+### Encabezado 3
 
-- Bulleted
-- List
+- Lista
+- con
+- puntos
 
-1. Numbered
-2. List
+1. Lista
+2. con
+3. números
 
-**Bold** and _Italic_ and `Code` text
+Formato puntual en **Negrita**, _Itálica_ y `Código` text
 
-[Link](url) and ![Image](src)
+También es posible agregar [Enlaces a otras páginas](dirección de la página) e ![imágenes](dirección de la imágen)
 ```
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+Para mas información, vean [Sintaxis básica de escritura y formato](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
+### Contacto
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/INGCOM-UNRN/ingcom-unrn.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Bueno, eventualmente agregaremos la información de contacto para con la carrera.

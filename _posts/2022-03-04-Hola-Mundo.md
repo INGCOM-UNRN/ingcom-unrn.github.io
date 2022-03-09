@@ -2,7 +2,7 @@
 layout: post
 title: "Hola Mundo"
 author: "UNRN"
-tags: Primero
+tags: inicio
 fecha: 4 de Marzo de 2022
 ---
 

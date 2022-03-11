@@ -43,3 +43,75 @@ permalink: /about/
 > Arquitectura de Computadoras I
 
 > Física General II
+
+### Segundo Cuatrimestre
+
+> Matemática III
+
+> Analisis de Circuitos
+
+> Ingles Tecnico
+
+> Algebra y Geometria Analitica
+
+
+## Tercer Año
+
+### Primer Cuatrimestre
+
+> Bases de Datos
+
+> Introducción a los Sistemas Distribuidos y Paralelos 
+
+> Programación III
+
+> Laboratorio de Sistemas Embebidos
+
+### Segundo Cuatrimestre
+
+> Seguridad Ambiental y Laboral
+
+> Sistemas Operativos I 
+
+> Señales y Sistemas
+
+> Redes de Área Local y Extendida
+
+## Cuarto Año
+
+### Primer Cuatrimestre
+
+> Ingeniería de Software I 
+
+> Probabilidad, Estadística y Procesos Aleatorios 
+
+> Electrónica Analógica 
+
+> Arquitectura de Computadora II 
+
+### Segundo Cuatrimestre
+
+> Inteligencia Artificial 
+
+> Compiladores e Intérpretes 
+
+> Sistemas Operativos II
+
+
+## Quinto Año
+
+### Primer Cuatrimestre
+
+> Economía y Organización Industrial  
+
+> Comunicaciones Analógicas y Digitales 
+
+> Programa de Trabajo Social  
+
+> Arquitectura de Computadora II 
+
+### Segundo Cuatrimestre
+
+> Seguridad Informática
+
+> Práctica Profesional Supervisada 
